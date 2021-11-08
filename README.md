@@ -1,5 +1,4 @@
 ## Onboarding Guide
-
 <P align="center">
   <IMG SRC "https://github.com/OREL-group/Onboarding/blob/main/Media%20Assets/Slide1.png">
     </P>
