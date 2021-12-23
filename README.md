@@ -1,4 +1,7 @@
 ## Onboarding Guide
+Check out these materials to get the answers to your questions about the lab. Read about our vision in the [following preprint](https://osf.io/preprints/metaarxiv/4k3z6/). You will also want to visit our [YouTube channel](https://www.youtube.com/channel/UCwnHU8Gntm3aHra1uBjIwzQ) and [Lab Medium](https://medium.com/orel-group/), where our Saturday morning NeuroSim meetings are recorded and summarized.
+
+### Introductory Presentation to the Lab
 <P align="center">
   <IMG SRC = "https://github.com/OREL-group/Onboarding/blob/main/Media%20Assets/Slide1.png">
     </P>
